@@ -1,6 +1,6 @@
 //DESTRUCTURING
 //Destructuring is a feature in JavaScript that allows you to extract values from arrays or objects and assign them to variables.
-It helps access values by pulling them out directly. There are two main types of Destructuring:
+//It helps access values by pulling them out directly. There are two main types of Destructuring:
 //Array Destructuring and Object Destructuring.
 
 //Array Destructuring 
