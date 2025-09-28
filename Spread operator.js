@@ -1,6 +1,7 @@
 //SPREAD OPERATOR
-// The spread operator is used to expand arrays or objects into individual elements.It allows you to copy, combine, or pass multiple elements easily. Works with arrays, objects, and function arguments.
-The operator: (...)
+// The spread operator is used to expand arrays or objects into individual elements.
+//It allows you to copy, combine, or pass multiple elements easily. Works with arrays, objects, and function arguments.
+//The operator is represented this way: (...)
 
 let fruits = ["Apple", "Banana"];
 let moreFruits = ["Cherry", ...fruits, "Orange"];
